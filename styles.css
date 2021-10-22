@@ -1,19 +1,19 @@
 body {
-    background-color: inherit;
+  background-color: inherit;
 }
 
-h1{
-    color: red;
+h1 {
+  color: red;
 }
 
 p {
-    color: green;
+  color: green;
 }
 
 ul {
-    color: palevioletred;
+  color: palevioletred;
 }
 
-li{
-    color:purple
+li {
+  color: purple;
 }
